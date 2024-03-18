@@ -1,0 +1,15 @@
+{% extends 'shop/base.html' %}
+{% block title %}Order done{% endblock %}
+<style>
+</style>
+{% block content %}
+    <h1 style="margin-left: 100px;">Thank you for choosing Salsaal</h1>
+    {% if not already %}
+        <p style="margin-left: 100px;">Your order has been succussfully completed. Your order id is
+            <strong>{{ order.id }}.</strong>
+        </p>
+    {% else %}
+        <p style="margin-left: 100px;">This order has already been made.</p>
+
+    {% endif %}
+{% endblock %}

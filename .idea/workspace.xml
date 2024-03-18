@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a23853d-664e-4a7f-a8b7-77c758b37cde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2daaa9hAGmfz1TEB3uJDCwcVusC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Tutorials\PROGRAMMING\Python\django\my_shop\orders\templates" />
+      <recent name="D:\Tutorials\PROGRAMMING\Python\django\my_shop\shop\static\image" />
+      <recent name="D:\Tutorials\PROGRAMMING\Python\django\my_shop\shop\templates\shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tutorials\PROGRAMMING\Python\django\my_shop\orders" />
+      <recent name="D:\Tutorials\PROGRAMMING\Python\django\my_shop\media\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tests">
+    <configuration name="cart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cart/cart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jawadDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/jawadDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cart/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_shop" type="Python.DjangoServer" factoryName="Django server">
+      <module name="my_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.jawadDB" />
+        <item itemvalue="Python.cart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a23853d-664e-4a7f-a8b7-77c758b37cde" name="Default Changelist" comment="" />
+      <created>1710248703831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710248703831</updated>
+      <workItem from="1710248705815" duration="1883000" />
+      <workItem from="1710322202083" duration="33000" />
+      <workItem from="1710327758562" duration="4166000" />
+      <workItem from="1710332404416" duration="4198000" />
+      <workItem from="1710414755987" duration="5343000" />
+      <workItem from="1710470943240" duration="1195000" />
+      <workItem from="1710496453300" duration="7824000" />
+      <workItem from="1710559457532" duration="4443000" />
+      <workItem from="1710564010992" duration="87000" />
+      <workItem from="1710570077321" duration="8505000" />
+      <workItem from="1710651112819" duration="32000" />
+      <workItem from="1710677160298" duration="897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1710572630684">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1710572630684" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1710651143293">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1710651143293" />
+    <state width="1280" height="187" key="GridCell.Tab.0.bottom" timestamp="1710563970510">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1280" height="187" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1710563970510" />
+    <state width="1280" height="187" key="GridCell.Tab.0.center" timestamp="1710563970510">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1280" height="187" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1710563970510" />
+    <state width="1280" height="187" key="GridCell.Tab.0.left" timestamp="1710563970510">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1280" height="187" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1710563970510" />
+    <state width="1280" height="187" key="GridCell.Tab.0.right" timestamp="1710563970510">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1280" height="187" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1710563970510" />
+    <state x="133" y="0" key="SettingsEditor" timestamp="1710555562416">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="133" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1710555562416" />
+    <state x="348" y="54" width="585" height="582" key="find.popup" timestamp="1710334115323">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="54" width="585" height="582" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1710334115323" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1710570681193">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1710570681193" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/my_shop$jawadDB.coverage" NAME="jawadDB Coverage Results" MODIFIED="1710555896463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/my_shop$cart.coverage" NAME="cart Coverage Results" MODIFIED="1710430117401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cart" />
+    <SUITE FILE_PATH="coverage/my_shop$tests.coverage" NAME="tests Coverage Results" MODIFIED="1710560370022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cart" />
+  </component>
+</project>

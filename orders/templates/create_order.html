@@ -1,0 +1,23 @@
+{% extends 'shop/base.html' %}
+{% load static %}
+{% block title %}Making an order{% endblock %}
+{% block content %}
+    <h1 style="margin-left: 10%;margin-bottom: 0.01px;margin-top: 1px">Checkout</h1>
+    <div class="order-info">
+        <h2>Your order</h2>
+        <ul>
+            {% for item in the_cart %}
+                <li>
+                    {{ item.quantity }}x {{ item.product.name }}
+                    <span>{{ item.total }} AFS</span>
+                </li>
+            {% endfor %}
+        </ul>
+        <p>Total: {{ the_cart.get_total_price }} AFS</p>
+    </div>
+    <form  method="post" class="order-form">
+        {{ order_form.as_p }}
+        {% csrf_token %}
+        <p><input type="submit" value="Place order"></p>
+    </form>
+{% endblock %}
